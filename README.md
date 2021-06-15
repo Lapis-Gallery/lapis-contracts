@@ -7,6 +7,7 @@ GET
 https://app.lapis.gallery/api/media
 
 PARAMS
+
 owner (optional) - NFTs filtered by an owner’s address
 
 
